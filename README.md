@@ -1,0 +1,2 @@
+# ITE260_Project_Rhanzell_and_Sirius
+Python debugging activity
